@@ -2,3 +2,6 @@ venv
 *.sqlite3
 _pycache_
 000*_*
+
+.*
+!/.gitignore
