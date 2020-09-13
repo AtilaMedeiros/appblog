@@ -1,2 +1,4 @@
 venv
 *.sqlite3
+_pycache_
+000*_*
