@@ -5,3 +5,4 @@ venv
 .*
 !/.gitignore
 __pycache__
+tests.py
