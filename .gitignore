@@ -1,8 +1,15 @@
-venv
-*.sqlite3
 
-000*_*
+#hidden without .gitignore 
 .*
 !/.gitignore
+
+
+#folders
+venv
 __pycache__
+
+#files
+*.sqlite3
+000*_*
 tests.py
+
