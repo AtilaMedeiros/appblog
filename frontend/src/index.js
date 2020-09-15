@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import UserLists from './UserLists';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 import ListComponent from './ListComponent';
@@ -8,7 +9,8 @@ import ListComponent from './ListComponent';
 ReactDOM.render(
   <React.StrictMode>
     {/* <App > */}
-    <ListComponent/>
+    < UserLists />
+
   </React.StrictMode>,
   document.getElementById('root')
 );
