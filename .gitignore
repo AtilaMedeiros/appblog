@@ -2,7 +2,7 @@
 #hidden without .gitignore 
 .*
 !/.gitignore
-
+!/frontend/.gitignore
 
 #folders
 venv
